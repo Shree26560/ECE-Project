@@ -1,0 +1,75 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://wallpapertag.com/wallpaper/full/a/8/d/34170-full-size-website-background-2560x1600-for-tablet.jpg);
+    border-color:#fff;
+    
+}
+
+/* Header styling */
+header {
+    background-image: url(https://wallpapercave.com/wp/wp2406557.jpg);
+    color: #fff;
+    padding: 10px 0;
+    border:2px solid white;
+    
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Hero section styling (homepage) */
+.hero {
+    text-align: center;
+    padding: 20px 0;
+    background-image: url(https://wallpapertag.com/wallpaper/full/a/8/d/34170-full-size-website-background-2560x1600-for-tablet.jpg);
+    color: #fff;
+    border:2px solid white;
+    font-size: x-large;
+}
+
+/* Content section styling (About and Research pages) */
+.content {
+    text-align: left;
+    font-size: x-large;
+    max-width: px;
+    margin bottom: 20px;
+    padding: 25px;
+    color:white;
+    border:2px solid black;
+    background-image: url(https://wallpapertag.com/wallpaper/full/a/8/d/34170-full-size-website-background-2560x1600-for-tablet.jpg);
+}
+footer{
+    text-align: center;
+    padding: 5px 0;
+}
+.research {
+    font-size:x-large;
+    padding: 50px;
+    color:white;
+    border:2px solid white;
+    background-image: url(https://wallpapertag.com/wallpaper/full/a/8/d/34170-full-size-website-background-2560x1600-for-tablet.jpg);
+}
+
+
+
+
+
